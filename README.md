@@ -3,9 +3,9 @@ It applies transfer learning to add a set of contextual data to the pretrained m
 
 The code contained in the inference_balloons notebook was used to test the efficiency of the pretrained model and compare that to the performance of our model after applying transfer learning.
 
-Performance metrics of the model can be found below:
-<img src="https://drive.google.com/file/d/1h-HzBI0YJKXTjcviGT4P_alakBW-eTvy/view?usp=sharing" width="341">
-<img src="https://drive.google.com/file/d/193HIg7L--DbYZg208Qd80vR5MxCCXLDQ/view?usp=sharing" width=341>
+Performance metrics of the model can be found below:<br>
+<img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/performance_metrics/aerial-model-statistics.png" width="500">
+<img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/performance_metrics/aerial-precision-recall.png" width="500">
 
 Before applying transfer learning:<br>
 <img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/pretrained_model/white-balloon-img.jpeg" width="341">
