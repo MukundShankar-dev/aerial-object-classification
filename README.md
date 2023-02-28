@@ -8,8 +8,8 @@ Performance metrics of the model can be found below:
 <img src="https://drive.google.com/file/d/193HIg7L--DbYZg208Qd80vR5MxCCXLDQ/view?usp=sharing" width=341>
 
 Before applying transfer learning:<br>
-<img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/pretrained_model/white-balloon-img.jpeg" width="341")
-![hot-air-untrained](https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/pretrained_model/hot-air-balloons-img.jpeg " width="341">
+<img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/pretrained_model/white-balloon-img.jpeg" width="341">
+<img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/pretrained_model/hot-air-balloons-img.jpeg" width="341">
 
 After applying transfer learning:<br>
 <img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/transfer_learned_model/white-balloon-img.jpeg" width="341">
