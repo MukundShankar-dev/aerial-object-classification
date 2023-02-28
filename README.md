@@ -15,7 +15,7 @@ After applying transfer learning:<br>
 <img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/transfer_learned_model/white-balloon-img.jpeg" width="341">
 <img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/transfer_learned_model/hot-air-balloons-img.jpeg" width="341">
 
-More examples can be found in the [outputs folder](https://github.com/MukundShankar-dev/aerial-object-classification/tree/main/outputs) of this repository.
+More sample outputs (including the model in action on videos) can be found in the [outputs folder](https://github.com/MukundShankar-dev/aerial-object-classification/tree/main/outputs) of this repository.
 
 More information can be found in this [Google Drive folder](https://drive.google.com/drive/folders/1KSwvDx5iDrfFhtfekvSG7CQrM52SoK8K?usp=sharing).
 To view the videos, please use the "outputs" folder within the drive.
