@@ -4,16 +4,16 @@ It applies transfer learning to add a set of contextual data to the pretrained m
 The code contained in the inference_balloons notebook was used to test the efficiency of the pretrained model and compare that to the performance of our model after applying transfer learning.
 
 Performance metrics of the model can be found below:
-![all performance](https://drive.google.com/file/d/1h-HzBI0YJKXTjcviGT4P_alakBW-eTvy/view?usp=sharing | width = 341)
-![PR curve](https://drive.google.com/file/d/193HIg7L--DbYZg208Qd80vR5MxCCXLDQ/view?usp=sharing | width = 341)
+<img src="https://drive.google.com/file/d/1h-HzBI0YJKXTjcviGT4P_alakBW-eTvy/view?usp=sharing" width="341">
+<img src="https://drive.google.com/file/d/193HIg7L--DbYZg208Qd80vR5MxCCXLDQ/view?usp=sharing" width=341>
 
 Before applying transfer learning:<br>
-![white-untrained](https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/pretrained_model/white-balloon-img.jpeg | width = 341)
-![hot-air-untrained](https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/pretrained_model/hot-air-balloons-img.jpeg | width = 341)
+<img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/pretrained_model/white-balloon-img.jpeg" width="341")
+![hot-air-untrained](https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/pretrained_model/hot-air-balloons-img.jpeg " width="341">
 
 After applying transfer learning:<br>
-![white-trained](https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/transfer_learned_model/white-balloon-img.jpeg | width=341)
-![hot-air-trained](https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/transfer_learned_model/hot-air-balloons-img.jpeg | width = 341)
+<img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/transfer_learned_model/white-balloon-img.jpeg" width="341">
+<img src="https://github.com/MukundShankar-dev/aerial-object-classification/blob/main/outputs/transfer_learned_model/hot-air-balloons-img.jpeg" width="341">
 
 More examples can be found in the [outputs folder](https://github.com/MukundShankar-dev/aerial-object-classification/tree/main/outputs) of this repository.
 
